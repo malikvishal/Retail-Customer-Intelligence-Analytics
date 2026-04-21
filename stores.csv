@@ -1,0 +1,11 @@
+store_id,store_name,city,city_tier,state,region,store_type,store_size_sqft,opening_date,manager_name
+S01,Mumbai Linking Road,Mumbai,Metro,Maharashtra,West,Mall,4200.0,2018-06-26,Priya Sharma
+S02,Delhi Connaught Place,Delhi,Metro,Delhi,North,Standalone,3800.0,2017-08-15,Rajesh Kumar
+S03,Bengaluru Koramangala,Bengaluru,Metro,Karnataka,South,Mall,5100.0,2019-08-08,Anita Desai
+S04,Hyderabad Banjara Hills,Hyderabad,Metro,Telangana,South,Mall,4600.0,2020-07-07,Vikram Nair
+S05,Chennai Anna Nagar,Chennai,Metro,Tamil Nadu,South,Standalone,3200.0,2018-03-14,Sunita Rao
+S06,Pune Koregaon Park,Pune,Tier-2,Maharashtra,West,Mall,2800.0,2021-08-27,Amit Patel
+S07,Jaipur MI Road,Jaipur,Tier-2,Rajasthan,North,Standalone,2200.0,2020-03-08,Kavita Singh
+S08,Ahmedabad CG Road,Ahmedabad,Tier-2,Gujarat,West,Mall,2500.0,2022-04-25,Rohit Mehta
+S09,Online - Website,Pan India,Online,N/A,N/A,Online,,2017-11-14,Deepa Krishnan
+S10,Online - App,Pan India,Online,N/A,N/A,Online,,2020-05-04,Arjun Gupta

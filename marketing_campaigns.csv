@@ -1,0 +1,9 @@
+campaign_id,campaign_name,season,campaign_type,channel,start_date,end_date,budget_inr_lakhs,target_category,discount_offered_pct
+C01,Summer Refresh Sale,Summer,Discount,Email,2023-04-01,2023-04-30,3.5,Clothing,20
+C02,Summer Heat — Social Blitz,Summer,Brand,Social Media,2023-05-01,2023-05-31,5.0,Footwear,15
+C03,Monsoon Wardrobe Sale,Fall,Clearance,SMS,2023-06-15,2023-07-15,2.5,Outerwear,25
+C04,End of Season Clearance,Fall,Clearance,In-store,2023-07-16,2023-08-15,2.0,Clothing,30
+C05,Navratri Festive Special,Festive,Discount,Social Media,2023-10-01,2023-10-15,6.0,Accessories,20
+C06,Diwali Mega Sale,Festive,Discount,Email,2023-10-16,2023-11-15,9.5,Clothing,25
+C07,Back-to-School Essentials,Back-to-School,New Launch,Email,2023-01-15,2023-02-15,3.0,Accessories,10
+C08,New Year Winter Warmth,Winter,Discount,SMS,2023-12-15,2024-01-15,4.0,Outerwear,20

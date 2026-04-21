@@ -1,0 +1,26 @@
+product_id,product_name,category,cost_price_inr,selling_price_inr,profit_margin_pct,stock_quantity,reorder_level,supplier_name,launch_date
+P001,Blouse,Clothing,520,899,42.16,457,53,Raymond Ltd,2021-10-27
+P002,Sweater,Clothing,780,1299,39.95,136,66,Mafatlal Industries,2022-04-10
+P003,Jeans,Clothing,950,1499,36.62,190,55,Mafatlal Industries,2022-05-10
+P004,Shirt,Clothing,480,799,39.92,103,62,Mafatlal Industries,2022-01-12
+P005,Shorts,Clothing,380,599,36.56,407,20,Raymond Ltd,2021-08-27
+P006,Dress,Clothing,850,1699,49.97,138,36,Raymond Ltd,2022-04-20
+P007,Skirt,Clothing,520,899,42.16,207,66,Raymond Ltd,2022-07-11
+P008,Pants,Clothing,720,1199,39.95,77,54,Mafatlal Industries,2021-09-27
+P009,Hoodie,Clothing,880,1399,37.1,244,23,Mafatlal Industries,2022-12-01
+P010,T-shirt,Clothing,299,499,40.08,283,67,Mafatlal Industries,2021-05-16
+P011,Sandals,Footwear,650,999,34.93,104,50,Bata India,2021-08-26
+P012,Sneakers,Footwear,1650,2999,44.98,78,31,Khadim India,2022-10-02
+P013,Shoes,Footwear,1250,2199,43.16,457,32,Liberty Shoes,2021-12-24
+P014,Boots,Footwear,1850,3499,47.13,65,64,Liberty Shoes,2022-02-04
+P015,Coat,Outerwear,2100,3999,47.49,438,60,Monte Carlo,2022-11-27
+P016,Jacket,Outerwear,1650,2999,44.98,205,38,Woodland Worldwide,2021-07-25
+P017,Handbag,Accessories,980,1799,45.53,324,45,Hidesign,2022-03-15
+P018,Sunglasses,Accessories,450,899,49.94,212,61,Hidesign,2022-09-21
+P019,Jewelry,Accessories,380,899,57.73,167,43,Titan Company,2022-04-05
+P020,Scarf,Accessories,280,499,43.89,462,30,Hidesign,2022-06-22
+P021,Hat,Accessories,320,599,46.58,379,57,Hidesign,2022-07-11
+P022,Socks,Accessories,120,199,39.7,487,73,Hidesign,2021-12-02
+P023,Backpack,Accessories,980,1799,45.53,165,36,Hidesign,2021-10-01
+P024,Belt,Accessories,350,699,49.93,481,40,Hidesign,2021-04-24
+P025,Gloves,Accessories,280,499,43.89,390,44,Hidesign,2022-12-25
