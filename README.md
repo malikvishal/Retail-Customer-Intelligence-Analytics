@@ -11,6 +11,16 @@ The client had raw transactional data sitting in spreadsheets with no structured
 > *"Which customers are most valuable, which stores are underperforming, and are our marketing campaigns actually driving loyalty — or just one-time purchases?"*
 
 ---
+## Dashboard Screenshots
+
+### Overview Dashboard
+![Overview Dashboard](screenshots/overview.png)
+
+### Sales Analysis
+![Sales Analysis](screenshots/sales-analysis.png)
+
+### KPI Trends
+![KPI Trends](screenshots/kpi-trends.png)
 
 ## 🗂️ Dataset Overview
 
