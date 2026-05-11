@@ -13,13 +13,13 @@ The client had raw transactional data sitting in spreadsheets with no structured
 ---
 ## Dashboard 
 
-### Overview Dashboard
+### Customer Overview Dashboard
 ![Customer Overview](customer_overview.png)
 
-### Sales Analysis
+### Store Product Performance
 ![Store Product Performance](store_product_performance.png)
 
-### KPI Trends
+### Campaign Revenue Performance
 ![Campaign Revenue Performance](Campaign_revenue_performance.png)
 
 ## 🗂️ Dataset Overview
