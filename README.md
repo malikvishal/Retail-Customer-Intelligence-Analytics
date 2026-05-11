@@ -13,7 +13,7 @@ The client had raw transactional data sitting in spreadsheets with no structured
 ---
 ## Dashboard 
 
-### Customer Overview Dashboard
+### Customer Behaviour Dashboard
 ![Customer Overview](customer_overview.png)
 
 ### Store Product Performance
