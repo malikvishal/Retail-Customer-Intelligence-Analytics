@@ -5,10 +5,10 @@ A mid-sized Indian retail chain operating across 10 stores (metro + tier-2 citie
 
 A mid-sized Indian retail chain operating across 10 stores (metro + tier-2 cities) and two online channels approached me to help them understand why customer retention was inconsistent across locations and why certain marketing campaigns were not translating into repeat purchases.
 
-The client had raw transactional data sitting in spreadsheets with no structured analysis in place. My role was to build a complete analytics workflow from scratch — from data cleaning and modelling to SQL-based business analysis, an interactive Power BI dashboard, and a final set of strategic recommendations presented to the leadership team.
+The client had raw transactional data sitting in spreadsheets with no structured analysis in place. My role was to build a complete analytics workflow from scratch  from data cleaning and modelling to SQL-based business analysis, an interactive Power BI dashboard, and a final set of strategic recommendations presented to the leadership team.
 
 **Core business question the client wanted answered:**
-> *"Which customers are most valuable, which stores are underperforming, and are our marketing campaigns actually driving loyalty — or just one-time purchases?"*
+> *"Which customers are most valuable, which stores are underperforming, and are our marketing campaigns actually driving loyalty - or just one-time purchases?"*
 
 ---
 ## Dashboard 
